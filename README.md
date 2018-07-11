@@ -39,4 +39,4 @@ This repository is read only so to push your changes you'll need to fork it. Aft
 * **Optional task:** add unit tests
 
 ## Finished
-Once you've completed the above, please email `prabhakar.m@nuncsystems.com` so that we know your work is ready to be reviewed. Push your code to your repo.
+Once you've completed the above, please email so that we know your work is ready to be reviewed. Push your code to your repo.
